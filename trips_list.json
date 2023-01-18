@@ -1,0 +1,137 @@
+[
+  {
+    "Id": 1,
+    "Hotel_Name": "Cancun Bay Resort",
+    "Country": "Meksyk",
+    "Continent": "Ameryka",
+    "Category": "****",
+    "Price": "450",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 2,
+    "Hotel_Name": "Iberostar Quetzal",
+    "Country": "Meksyk",
+    "Continent": "Ameryka",
+    "Category": "*****",
+    "Price": "690",
+    "Food": "All Inclusive"
+  },
+  {
+    "Id": 3,
+    "Hotel_Name": "Imperial Laguna by Faranda",
+    "Country": "Meksyk",
+    "Continent": "Ameryka",
+    "Category": "***",
+    "Price": "320",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 4,
+    "Hotel_Name": "Playacalida",
+    "Country": "Hiszpania",
+    "Continent": "Europa",
+    "Category": "*****",
+    "Price": "600",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 5,
+    "Hotel_Name": "Palia Puerto del Sol",
+    "Country": "Hiszpania",
+    "Continent": "Europa",
+    "Category": "*****",
+    "Price": "240",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 6,
+    "Hotel_Name": "Playa Real Resort",
+    "Country": "Hiszpania",
+    "Continent": "Europa",
+    "Category": "****",
+    "Price": "380",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 7,
+    "Hotel_Name": "Sea Gull",
+    "Country": "Egipt",
+    "Continent": "Afryka",
+    "Category": "***",
+    "Price": "270",
+    "Food": "All Inclusive"
+  },
+  {
+    "Id": 8,
+    "Hotel_Name": "Continental Hurghada",
+    "Country": "Egipt",
+    "Continent": "Afryka",
+    "Category": "****",
+    "Price": "360",
+    "Food": "All Inclusive"
+  },
+  {
+    "Id": 9,
+    "Hotel_Name": "Sharm Grand Plaza",
+    "Country": "Egipt",
+    "Continent": "Afryka",
+    "Category": "*****",
+    "Price": "620",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 10,
+    "Hotel_Name": "Ikaros Hotel",
+    "Country": "Grecja",
+    "Continent": "Europa",
+    "Category": "***",
+    "Price": "220",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 11,
+    "Hotel_Name": "Labranda Sandy Beach Resort",
+    "Country": "Grecja",
+    "Continent": "Europa",
+    "Category": "*****",
+    "Price": "580",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 12,
+    "Hotel_Name": "Lida Corfu",
+    "Country": "Grecja",
+    "Continent": "Europa",
+    "Category": "****",
+    "Price": "310",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 13,
+    "Hotel_Name": "Mytt Beach Hotel",
+    "Country": "Tajlandia",
+    "Continent": "Azja",
+    "Category": "*****",
+    "Price": "720",
+    "Food": "All Inclusive"
+  },
+  {
+    "Id": 14,
+    "Hotel_Name": "Novotel Rayong",
+    "Country": "Tajlandia",
+    "Continent": "Azja",
+    "Category": "****",
+    "Price": "410",
+    "Food": "Śniadania"
+  },
+  {
+    "Id": 15,
+    "Hotel_Name": "Cholchan Pattaya Resort",
+    "Country": "Tajlandia",
+    "Continent": "Azja",
+    "Category": "***",
+    "Price": "290",
+    "Food": "Śniadania"
+  }
+]
